@@ -1,10 +1,10 @@
-button{
+#btn{
     background-color: black;
     color: white;
     border-radius: 5px;
     border: none;
 }
-button :hover{
+#btn :hover{
     cursor: pointer;
     background-color: yellow;
     color: black;
